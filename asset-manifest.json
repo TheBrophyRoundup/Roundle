@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nickzalle/Roundle.git/static/css/main.84e87d7d.css",
+    "main.js": "/nickzalle/Roundle.git/static/js/main.960912c3.js",
+    "static/js/787.3dc3cd59.chunk.js": "/nickzalle/Roundle.git/static/js/787.3dc3cd59.chunk.js",
+    "index.html": "/nickzalle/Roundle.git/index.html",
+    "main.84e87d7d.css.map": "/nickzalle/Roundle.git/static/css/main.84e87d7d.css.map",
+    "main.960912c3.js.map": "/nickzalle/Roundle.git/static/js/main.960912c3.js.map",
+    "787.3dc3cd59.chunk.js.map": "/nickzalle/Roundle.git/static/js/787.3dc3cd59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e87d7d.css",
+    "static/js/main.960912c3.js"
+  ]
+}
