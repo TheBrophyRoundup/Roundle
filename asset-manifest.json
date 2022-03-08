@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Roundle/static/css/main.c0708248.css",
+    "main.js": "/Roundle/static/js/main.08cb5cc3.js",
+    "static/js/787.3dc3cd59.chunk.js": "/Roundle/static/js/787.3dc3cd59.chunk.js",
+    "static/media/RNDUP Logo L.png": "/Roundle/static/media/RNDUP Logo L.4e73838947c1b5250a83.png",
+    "index.html": "/Roundle/index.html",
+    "main.c0708248.css.map": "/Roundle/static/css/main.c0708248.css.map",
+    "main.08cb5cc3.js.map": "/Roundle/static/js/main.08cb5cc3.js.map",
+    "787.3dc3cd59.chunk.js.map": "/Roundle/static/js/787.3dc3cd59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0708248.css",
+    "static/js/main.08cb5cc3.js"
+  ]
+}
